@@ -15,35 +15,33 @@
 
 ---
 
-### 🎯 Principais Projetos
+<div align="center">
+  <h3>🎯 Principais Projetos</h3>
+</div>
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://b3api.me">
+      <a href="https://github.com/GeovaneSec/B3API">
         <img src="https://img.shields.io/badge/B3API-API%20Financeira-28a745?style=for-the-badge" alt="B3API"/>
-        <br>
-        <sub>API do Mercado Financeiro Brasileiro</sub>
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/bandalittledolly/Website">
         <img src="https://img.shields.io/badge/Little%20Dolly-Website-28a745?style=for-the-badge" alt="Little Dolly"/>
-        <br>
-        <sub>Website Moderno para Banda</sub>
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/GeovaneSec/FlexTux">
         <img src="https://img.shields.io/badge/FlexTux-Discord%20Bot-28a745?style=for-the-badge" alt="FlexTux"/>
-        <br>
-        <sub>Bot Discord em JavaScript</sub>
       </a>
     </td>
   </tr>
 </table>
 
-### 🛠️ Stack Tecnológica
+<div align="center">
+  <h3>🛠️ Stack Tecnológica</h3>
+</div>
 
 <div align="center">
 
@@ -56,14 +54,18 @@
 
 </div>
 
-### 📊 Estatísticas GitHub
+<div align="center">
+  <h3>📊 Estatísticas GitHub</h3>
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovaneSec&show_icons=true&theme=github_dark&hide_border=true&title_color=28a745&icon_color=28a745"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GeovaneSec&theme=github-dark&hide_border=true&ring=28a745&fire=28a745&currStreakLabel=28a745"/>
 </div>
 
-### 🌱 Foco Atual
+<div align="center">
+  <h3>🌱 Foco Atual</h3>
+</div>
 
 <div align="center">
 
@@ -78,5 +80,5 @@
 ---
 
 <div align="center">
-  <sub>Feito com ❤️ por Geovane</sub>
+  <sub>Feito com dedicação por Geovane</sub>
 </div>
