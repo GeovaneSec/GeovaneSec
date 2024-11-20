@@ -3,7 +3,6 @@
 
   [![Website](https://img.shields.io/badge/Website-geovanebr.me-28a745?style=for-the-badge&logo=google-chrome&logoColor=white)](https://geovanebr.me)
   [![GitHub](https://img.shields.io/badge/GitHub-GeovaneSec-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeovaneSec)
-  [![Estrelas](https://img.shields.io/github/stars/GeovaneSec?label=Estrelas&style=for-the-badge&color=28a745)](https://github.com/GeovaneSec)
 </div>
 
 <div align="center">
